@@ -42,7 +42,6 @@ h3 {
   margin: 10px 0;
   width: 100%;
 }
-
-.element:nth-child(2n){
+.purple {
   background-color: purple;
 }
